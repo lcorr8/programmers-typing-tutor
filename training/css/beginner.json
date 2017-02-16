@@ -1,0 +1,525 @@
+{
+  "id": "t2222",
+  "name": "CSS Training",
+  "mode": "css",
+  "level": "beginner",
+  "logo": "/images/languages/css.png",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "align-content"
+    },
+    {
+      "exercise": "",
+      "example": "align-items"
+    },
+    {
+      "exercise": "",
+      "example": "align-self"
+    },
+    {
+      "exercise": "",
+      "example": "animation-delay"
+    },
+    {
+      "exercise": "",
+      "example": "animation-direction"
+    },
+    {
+      "exercise": "",
+      "example": "animation-duration"
+    },
+    {
+      "exercise": "",
+      "example": "animation-fill-mode"
+    },
+    {
+      "exercise": "",
+      "example": "animation-iteration-count"
+    },
+    {
+      "exercise": "",
+      "example": "animation-name"
+    },
+    {
+      "exercise": "",
+      "example": "animation-play-state"
+    },
+    {
+      "exercise": "",
+      "example": "animation-timing-function"
+    },
+    {
+      "exercise": "",
+      "example": "animation"
+    },
+    {
+      "exercise": "",
+      "example": "background-attachment"
+    },
+    {
+      "exercise": "",
+      "example": "background-clip"
+    },
+    {
+      "exercise": "",
+      "example": "background-color"
+    },
+    {
+      "exercise": "",
+      "example": "background-image"
+    },
+    {
+      "exercise": "",
+      "example": "background-origin"
+    },
+    {
+      "exercise": "",
+      "example": "background-position"
+    },
+    {
+      "exercise": "",
+      "example": "background-repeat"
+    },
+    {
+      "exercise": "",
+      "example": "background-size"
+    },
+    {
+      "exercise": "",
+      "example": "background"
+    },
+    {
+      "exercise": "",
+      "example": "border-bottom-color"
+    },
+    {
+      "exercise": "",
+      "example": "border-bottom-left-radius"
+    },
+    {
+      "exercise": "",
+      "example": "border-bottom-right-radius"
+    },
+    {
+      "exercise": "",
+      "example": "border-bottom-style"
+    },
+    {
+      "exercise": "",
+      "example": "border-bottom-width"
+    },
+    {
+      "exercise": "",
+      "example": "border-bottom"
+    },
+    {
+      "exercise": "",
+      "example": "border-collapse"
+    },
+    {
+      "exercise": "",
+      "example": "border-color"
+    },
+    {
+      "exercise": "",
+      "example": "border-left-color"
+    },
+    {
+      "exercise": "",
+      "example": "border-left-style"
+    },
+    {
+      "exercise": "",
+      "example": "border-left-width"
+    },
+    {
+      "exercise": "",
+      "example": "border-left"
+    },
+    {
+      "exercise": "",
+      "example": "border-radius"
+    },
+    {
+      "exercise": "",
+      "example": "border-right-color"
+    },
+    {
+      "exercise": "",
+      "example": "border-right-style"
+    },
+    {
+      "exercise": "",
+      "example": "border-right-width"
+    },
+    {
+      "exercise": "",
+      "example": "border-right"
+    },
+    {
+      "exercise": "",
+      "example": "border-style"
+    },
+    {
+      "exercise": "",
+      "example": "border-top-color"
+    },
+    {
+      "exercise": "",
+      "example": "border-top-left-radius"
+    },
+    {
+      "exercise": "",
+      "example": "border-top-right-radius"
+    },
+    {
+      "exercise": "",
+      "example": "border-top-style"
+    },
+    {
+      "exercise": "",
+      "example": "border-top-width"
+    },
+    {
+      "exercise": "",
+      "example": "border-top"
+    },
+    {
+      "exercise": "",
+      "example": "border-width"
+    },
+    {
+      "exercise": "",
+      "example": "border"
+    },
+    {
+      "exercise": "",
+      "example": "bottom"
+    },
+    {
+      "exercise": "",
+      "example": "box-shadow"
+    },
+    {
+      "exercise": "",
+      "example": "box-sizing"
+    },
+    {
+      "exercise": "",
+      "example": "clear"
+    },
+    {
+      "exercise": "",
+      "example": "color"
+    },
+    {
+      "exercise": "",
+      "example": "column-count"
+    },
+    {
+      "exercise": "",
+      "example": "column-gap"
+    },
+    {
+      "exercise": "",
+      "example": "column-width"
+    },
+    {
+      "exercise": "",
+      "example": "content"
+    },
+    {
+      "exercise": "",
+      "example": "cursor"
+    },
+    {
+      "exercise": "",
+      "example": "display"
+    },
+    {
+      "exercise": "",
+      "example": "flex-basis"
+    },
+    {
+      "exercise": "",
+      "example": "flex-direction"
+    },
+    {
+      "exercise": "",
+      "example": "flex-flow"
+    },
+    {
+      "exercise": "",
+      "example": "flex-grow"
+    },
+    {
+      "exercise": "",
+      "example": "flex-shrink"
+    },
+    {
+      "exercise": "",
+      "example": "flex-wrap"
+    },
+    {
+      "exercise": "",
+      "example": "float"
+    },
+    {
+      "exercise": "",
+      "example": "font-family"
+    },
+    {
+      "exercise": "",
+      "example": "font-size"
+    },
+    {
+      "exercise": "",
+      "example": "font-style"
+    },
+    {
+      "exercise": "",
+      "example": "font-variant"
+    },
+    {
+      "exercise": "",
+      "example": "font-weight"
+    },
+    {
+      "exercise": "",
+      "example": "font"
+    },
+    {
+      "exercise": "",
+      "example": "height"
+    },
+    {
+      "exercise": "",
+      "example": "justify-content"
+    },
+    {
+      "exercise": "",
+      "example": "left"
+    },
+    {
+      "exercise": "",
+      "example": "letter-spacing"
+    },
+    {
+      "exercise": "",
+      "example": "line-height"
+    },
+    {
+      "exercise": "",
+      "example": "list-style-image"
+    },
+    {
+      "exercise": "",
+      "example": "list-style-position"
+    },
+    {
+      "exercise": "",
+      "example": "list-style-type"
+    },
+    {
+      "exercise": "",
+      "example": "list-style"
+    },
+    {
+      "exercise": "",
+      "example": "margin-bottom"
+    },
+    {
+      "exercise": "",
+      "example": "margin-left"
+    },
+    {
+      "exercise": "",
+      "example": "margin-right"
+    },
+    {
+      "exercise": "",
+      "example": "margin-top"
+    },
+    {
+      "exercise": "",
+      "example": "margin"
+    },
+    {
+      "exercise": "",
+      "example": "max-height"
+    },
+    {
+      "exercise": "",
+      "example": "max-width"
+    },
+    {
+      "exercise": "",
+      "example": "min-height"
+    },
+    {
+      "exercise": "",
+      "example": "min-width"
+    },
+    {
+      "exercise": "",
+      "example": "mix-blend-mode"
+    },
+    {
+      "exercise": "",
+      "example": "opacity"
+    },
+    {
+      "exercise": "",
+      "example": "order"
+    },
+    {
+      "exercise": "",
+      "example": "outline-color"
+    },
+    {
+      "exercise": "",
+      "example": "outline-style"
+    },
+    {
+      "exercise": "",
+      "example": "outline-width"
+    },
+    {
+      "exercise": "",
+      "example": "outline"
+    },
+    {
+      "exercise": "",
+      "example": "overflow-wrap"
+    },
+    {
+      "exercise": "",
+      "example": "overflow-x"
+    },
+    {
+      "exercise": "",
+      "example": "overflow-y"
+    },
+    {
+      "exercise": "",
+      "example": "overflow"
+    },
+    {
+      "exercise": "",
+      "example": "padding-bottom"
+    },
+    {
+      "exercise": "",
+      "example": "padding-left"
+    },
+    {
+      "exercise": "",
+      "example": "padding-right"
+    },
+    {
+      "exercise": "",
+      "example": "padding-top"
+    },
+    {
+      "exercise": "",
+      "example": "padding"
+    },
+    {
+      "exercise": "",
+      "example": "pointer-events"
+    },
+    {
+      "exercise": "",
+      "example": "position"
+    },
+    {
+      "exercise": "",
+      "example": "resize"
+    },
+    {
+      "exercise": "",
+      "example": "right"
+    },
+    {
+      "exercise": "",
+      "example": "text-align"
+    },
+    {
+      "exercise": "",
+      "example": "text-decoration"
+    },
+    {
+      "exercise": "",
+      "example": "text-indent"
+    },
+    {
+      "exercise": "",
+      "example": "text-overflow"
+    },
+    {
+      "exercise": "",
+      "example": "text-shadow"
+    },
+    {
+      "exercise": "",
+      "example": "text-transform"
+    },
+    {
+      "exercise": "",
+      "example": "top"
+    },
+    {
+      "exercise": "",
+      "example": "transform-origin"
+    },
+    {
+      "exercise": "",
+      "example": "transform"
+    },
+    {
+      "exercise": "",
+      "example": "transition-delay"
+    },
+    {
+      "exercise": "",
+      "example": "transition-duration"
+    },
+    {
+      "exercise": "",
+      "example": "transition-property"
+    },
+    {
+      "exercise": "",
+      "example": "transition-timing-function"
+    },
+    {
+      "exercise": "",
+      "example": "transition"
+    },
+    {
+      "exercise": "",
+      "example": "white-space"
+    },
+    {
+      "exercise": "",
+      "example": "width"
+    },
+    {
+      "exercise": "",
+      "example": "will-change"
+    },
+    {
+      "exercise": "",
+      "example": "word-break"
+    },
+    {
+      "exercise": "",
+      "example": "word-spacing"
+    },
+    {
+      "exercise": "",
+      "example": "z-index"
+    }
+  ]
+}

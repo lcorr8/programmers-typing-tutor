@@ -1,0 +1,213 @@
+{
+  "id": "t111",
+  "name": "Java Script Training",
+  "mode": "javascript",
+  "level": "beginner",
+  "logo": "/images/languages/javascript.png",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "React.Component"
+    },
+    {
+      "exercise": "",
+      "example": "React.PureComponent"
+    },
+    {
+      "exercise": "",
+      "example": "React.createClass(specification)"
+    },
+    {
+      "exercise": "",
+      "example": "React.createElement(type, props, children)"
+    },
+    {
+      "exercise": "",
+      "example": "React.createFactory(type)"
+    },
+    {
+      "exercise": "",
+      "example": "React.cloneElement(element, props, children)"
+    },
+    {
+      "exercise": "",
+      "example": "React.isValidElement(object)"
+    },
+    {
+      "exercise": "",
+      "example": "React.Children"
+    },
+    {
+      "exercise": "",
+      "example": "React.Children.map(children, thisArg => {})"
+    },
+    {
+      "exercise": "",
+      "example": "React.Children.forEach(children, thisArg => {})"
+    },
+    {
+      "exercise": "",
+      "example": "React.Children.count(children)"
+    },
+    {
+      "exercise": "",
+      "example": "React.Children.only(children)"
+    },
+    {
+      "exercise": "",
+      "example": "React.Children.toArray(children)"
+      },
+
+    {
+      "exercise": "",
+      "example": "React.PropTypes"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.array"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.bool"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.func"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.number"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.object"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.string"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.symbol"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.node"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.element"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.instanceOf(class)"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.oneOf(arrayOfValues)"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.oneOfType(arrayOfPropTypes)"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.arrayOf(propType)"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.objectOf(propType)"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.shape(object)"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.any"
+    },
+
+    {
+      "exercise": "",
+      "example": "React.PropTypes"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.array.isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.bool.isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.func.isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.number.isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.object.isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.string.isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.symbol.isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.node.isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.element.isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.instanceOf(class).isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.oneOf(arrayOfValues).isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.oneOfType(arrayOfPropTypes).isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.arrayOf(propType).isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.objectOf(propType).isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.shape(object).isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.PropTypes.any.isRequired"
+    },
+    {
+      "exercise": "",
+      "example": "React.addons"
+    }
+  ],
+  "lessons1": [
+    {
+      "exercise": "Returns an HTMLCollection of elements with the given tag name.",
+      "example": "test1"
+    },
+    {
+      "exercise": "Returns an HTMLCollection of elements with the given tag name.",
+      "example": "test2"
+    }
+  ]
+}
