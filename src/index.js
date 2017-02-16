@@ -12,7 +12,7 @@ import 'codemirror/theme/material.css'
 
 import createStore from './redux/createStore'
 import { syncHistoryWithStore } from 'react-router-redux'
-import { Router, browserHistory } from 'react-router'
+import { Router, hashHistory } from 'react-router'
 import { Provider } from 'react-redux'
 
 /**
@@ -23,7 +23,7 @@ const store = createStore()
 /**
  * Create history synchronized with Redux Store
  */
-const history = syncHistoryWithStore(browserHistory, store)
+const history = syncHistoryWithStore(hashHistory, store)
 
 /**
  * Render application to DOM
