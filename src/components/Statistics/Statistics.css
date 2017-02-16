@@ -1,0 +1,27 @@
+.Statistics {
+  flex-grow: 1;
+  display: inline-flex;
+  width: 25%;
+}
+.Statistics:last-child {
+  flex-grow: 0;
+}
+.Statistics .param{
+  display: block;
+  margin-left: 10px;
+  width: 100%;
+}
+
+.Statistics .value {
+  min-width: 100px;
+  display: block;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+}
+.Statistics .label {
+  display: block;
+  font-size: 12px;
+  line-height: 20px;
+  color: #aaa;
+}

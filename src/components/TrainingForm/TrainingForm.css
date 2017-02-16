@@ -1,0 +1,40 @@
+form.TrainingForm {
+  width: 100%;
+  max-width: 600px;
+  margin: 50px auto;
+}
+form.TrainingForm .CodeMirror {
+  height: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+form.TrainingForm input.field-text {
+  width: 100%;
+  box-sizing: border-box;
+  background: #263238;
+  padding: 10px;
+  font-size: 15px;
+  font-family: monospace;
+  color: #fff;
+  border: 0px solid #eee;
+}
+form.TrainingForm table {
+  width: 100%;
+  margin: 0 0 20px;
+}
+form.TrainingForm table th {
+  color: #999;
+  text-align: right;
+  padding: 0;
+  padding-right: 10px;
+}
+form.TrainingForm table td {
+  padding: 0;
+  width: 50%;
+  /*background: #263238;*/
+  vertical-align: top;
+
+}
+
+

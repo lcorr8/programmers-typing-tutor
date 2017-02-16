@@ -1,0 +1,457 @@
+{
+  "id": "t232323",
+  "name": "HTML Training",
+  "mode": "html",
+  "level": "beginner",
+  "logo": "/images/languages/html.png",
+  "lessons": [
+    {
+      "exercise": "",
+      "example": "<a>"
+    },
+    {
+      "exercise": "",
+      "example": "<abbr>"
+    },
+    {
+      "exercise": "",
+      "example": "<address>"
+    },
+    {
+      "exercise": "",
+      "example": "<area>"
+    },
+    {
+      "exercise": "",
+      "example": "<article>"
+    },
+    {
+      "exercise": "",
+      "example": "<aside>"
+    },
+    {
+      "exercise": "",
+      "example": "<audio>"
+    },
+    {
+      "exercise": "",
+      "example": "<b>"
+    },
+    {
+      "exercise": "",
+      "example": "<base>"
+    },
+    {
+      "exercise": "",
+      "example": "<bdi>"
+    },
+    {
+      "exercise": "",
+      "example": "<bdo>"
+    },
+    {
+      "exercise": "",
+      "example": "<blockquote>"
+    },
+    {
+      "exercise": "",
+      "example": "<body>"
+    },
+    {
+      "exercise": "",
+      "example": "<br>"
+    },
+    {
+      "exercise": "",
+      "example": "<button>"
+    },
+    {
+      "exercise": "",
+      "example": "<canvas>"
+    },
+    {
+      "exercise": "",
+      "example": "<caption>"
+    },
+    {
+      "exercise": "",
+      "example": "<cite>"
+    },
+    {
+      "exercise": "",
+      "example": "<code>"
+    },
+    {
+      "exercise": "",
+      "example": "<col>"
+    },
+    {
+      "exercise": "",
+      "example": "<colgroup>"
+    },
+    {
+      "exercise": "",
+      "example": "<data>"
+    },
+    {
+      "exercise": "",
+      "example": "<datalist>"
+    },
+    {
+      "exercise": "",
+      "example": "<dd>"
+    },
+    {
+      "exercise": "",
+      "example": "<del>"
+    },
+    {
+      "exercise": "",
+      "example": "<details>"
+    },
+    {
+      "exercise": "",
+      "example": "<dfn>"
+    },
+    {
+      "exercise": "",
+      "example": "<dialog>"
+    },
+    {
+      "exercise": "",
+      "example": "<div>"
+    },
+    {
+      "exercise": "",
+      "example": "<dl>"
+    },
+    {
+      "exercise": "",
+      "example": "<dt>"
+    },
+    {
+      "exercise": "",
+      "example": "<em>"
+    },
+    {
+      "exercise": "",
+      "example": "<embed>"
+    },
+    {
+      "exercise": "",
+      "example": "<fieldset>"
+    },
+    {
+      "exercise": "",
+      "example": "<figcaption>"
+    },
+    {
+      "exercise": "",
+      "example": "<figure>"
+    },
+    {
+      "exercise": "",
+      "example": "<footer>"
+    },
+    {
+      "exercise": "",
+      "example": "<form>"
+    },
+    {
+      "exercise": "",
+      "example": "<h1>"
+    },
+    {
+      "exercise": "",
+      "example": "<h2>"
+    },
+    {
+      "exercise": "",
+      "example": "<h3>"
+    },
+    {
+      "exercise": "",
+      "example": "<h4>"
+    },
+    {
+      "exercise": "",
+      "example": "<h5>"
+    },
+    {
+      "exercise": "",
+      "example": "<h6>"
+    },
+    {
+      "exercise": "",
+      "example": "<head>"
+    },
+    {
+      "exercise": "",
+      "example": "<header>"
+    },
+    {
+      "exercise": "",
+      "example": "<hgroup>"
+    },
+    {
+      "exercise": "",
+      "example": "<hr>"
+    },
+    {
+      "exercise": "",
+      "example": "<html>"
+    },
+    {
+      "exercise": "",
+      "example": "<i>"
+    },
+    {
+      "exercise": "",
+      "example": "<iframe>"
+    },
+    {
+      "exercise": "",
+      "example": "<img>"
+    },
+    {
+      "exercise": "",
+      "example": "<input>"
+    },
+    {
+      "exercise": "",
+      "example": "<ins>"
+    },
+    {
+      "exercise": "",
+      "example": "<kbd>"
+    },
+    {
+      "exercise": "",
+      "example": "<label>"
+    },
+    {
+      "exercise": "",
+      "example": "<legend>"
+    },
+    {
+      "exercise": "",
+      "example": "<li>"
+    },
+    {
+      "exercise": "",
+      "example": "<link>"
+    },
+    {
+      "exercise": "",
+      "example": "<main>"
+    },
+    {
+      "exercise": "",
+      "example": "<map>"
+    },
+    {
+      "exercise": "",
+      "example": "<mark>"
+    },
+    {
+      "exercise": "",
+      "example": "<meter>"
+    },
+    {
+      "exercise": "",
+      "example": "<nav>"
+    },
+    {
+      "exercise": "",
+      "example": "<noframes>"
+    },
+    {
+      "exercise": "",
+      "example": "<noscript>"
+    },
+    {
+      "exercise": "",
+      "example": "<object>"
+    },
+    {
+      "exercise": "",
+      "example": "<ol>"
+    },
+    {
+      "exercise": "",
+      "example": "<optgroup>"
+    },
+    {
+      "exercise": "",
+      "example": "<option>"
+    },
+    {
+      "exercise": "",
+      "example": "<output>"
+    },
+    {
+      "exercise": "",
+      "example": "<p>"
+    },
+    {
+      "exercise": "",
+      "example": "<param>"
+    },
+    {
+      "exercise": "",
+      "example": "<picture>"
+    },
+    {
+      "exercise": "",
+      "example": "<pre>"
+    },
+    {
+      "exercise": "",
+      "example": "<progress>"
+    },
+    {
+      "exercise": "",
+      "example": "<q>"
+    },
+    {
+      "exercise": "",
+      "example": "<rp>"
+    },
+    {
+      "exercise": "",
+      "example": "<rt>"
+    },
+    {
+      "exercise": "",
+      "example": "<rtc>"
+    },
+    {
+      "exercise": "",
+      "example": "<ruby>"
+    },
+    {
+      "exercise": "",
+      "example": "<s>"
+    },
+    {
+      "exercise": "",
+      "example": "<samp>"
+    },
+    {
+      "exercise": "",
+      "example": "<script>"
+    },
+    {
+      "exercise": "",
+      "example": "<section>"
+    },
+    {
+      "exercise": "",
+      "example": "<select>"
+    },
+    {
+      "exercise": "",
+      "example": "<slot>"
+    },
+    {
+      "exercise": "",
+      "example": "<small>"
+    },
+    {
+      "exercise": "",
+      "example": "<source>"
+    },
+    {
+      "exercise": "",
+      "example": "<span>"
+    },
+    {
+      "exercise": "",
+      "example": "<strong>"
+    },
+    {
+      "exercise": "",
+      "example": "<style>"
+    },
+    {
+      "exercise": "",
+      "example": "<sub>"
+    },
+    {
+      "exercise": "",
+      "example": "<summary>"
+    },
+    {
+      "exercise": "",
+      "example": "<sup>"
+    },
+    {
+      "exercise": "",
+      "example": "<table>"
+    },
+    {
+      "exercise": "",
+      "example": "<tbody>"
+    },
+    {
+      "exercise": "",
+      "example": "<td>"
+    },
+    {
+      "exercise": "",
+      "example": "<template>"
+    },
+    {
+      "exercise": "",
+      "example": "<textarea>"
+    },
+    {
+      "exercise": "",
+      "example": "<tfoot>"
+    },
+    {
+      "exercise": "",
+      "example": "<th>"
+    },
+    {
+      "exercise": "",
+      "example": "<thead>"
+    },
+    {
+      "exercise": "",
+      "example": "<time>"
+    },
+    {
+      "exercise": "",
+      "example": "<title>"
+    },
+    {
+      "exercise": "",
+      "example": "<tr>"
+    },
+    {
+      "exercise": "",
+      "example": "<track>"
+    },
+    {
+      "exercise": "",
+      "example": "<u>"
+    },
+    {
+      "exercise": "",
+      "example": "<ul>"
+    },
+    {
+      "exercise": "",
+      "example": "<var>"
+    },
+    {
+      "exercise": "",
+      "example": "<video>"
+    },
+    {
+      "exercise": "",
+      "example": "<wbr>"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+.Exercise {
+  background: #fff;
+  color: #aaa;
+  padding: 0 20px;
+  overflow: hidden;
+  user-select: none;
+  line-height: 1.6em;
+  font-size: 15px;
+}
+
+.Exercise code {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 3px;
+  padding: 0 5px;
+}

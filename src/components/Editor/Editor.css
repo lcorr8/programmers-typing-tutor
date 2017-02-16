@@ -1,0 +1,5 @@
+.Editor {}
+.Editor .CodeMirror {
+  height: auto;
+  padding: 20px
+}

@@ -1,0 +1,59 @@
+.Trainer {
+  overflow: hidden;
+  height: 100%;
+  /*background: mediumpurple;*/
+  transition: background 2s;
+}
+.Trainer > .inner {
+  margin: auto;
+  max-width: 800px;
+}
+
+.Trainer.completed {
+  /*background: mediumseagreen;*/
+}
+
+.Trainer .editors {
+  position: relative;
+  background: #263238;
+}
+
+.Trainer .editors .Example {
+  position: absolute;
+  opacity: 0.5;
+  z-index: 1;
+  width: 100%;
+
+}
+
+.Trainer .editors .Editor {
+  position: relative;
+  z-index: 2;
+  width: 100%; 
+}
+
+.Trainer .editors {
+  margin: 30px 0 0;
+}
+.Trainer .editors::before {
+  height: 20px;
+  background: #ccc;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  content: '';
+  position: absolute;
+  top: -20px;
+  width: 100%;
+}
+
+.Trainer .editors .cm-s-material.CodeMirror {
+  background: transparent;
+}
+
+.Trainer .header {
+  padding: 20px 0;
+  /*display: flex;
+  align-items: flex-start;
+  justify-content: space-between;*/
+}
+

@@ -1,0 +1,19 @@
+{
+  "id": "reactjs",
+  "name": "React.js",
+  "mode": "javascript",
+  "level": "beginner",
+  "logo": "/images/languages/javascript.png",
+  "lessons": [
+    {
+      "id": "l1",
+      "exercise": "React.Component is the base class for React components when they are defined using ES6 classes.",
+      "example": "React.Component"
+    },
+    {
+      "id": "l2",
+      "exercise": "React.PureComponent is exactly like React.Component but implements shouldComponentUpdate() with a shallow prop and state comparison.",
+      "example": "React.PureComponent"
+    }
+  ]
+}

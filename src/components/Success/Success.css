@@ -1,0 +1,99 @@
+.Success {
+  font-size: 18px;
+  padding: 10px 20px;
+  color: #263238;
+  text-align: center;
+}
+
+.Success b {
+  font-size: 1.2em;
+  /*color: #fff;*/
+}
+
+table.lessons-statistics {
+  width: 100%;
+  background: #FFF;
+  margin: 1em 0;
+  border: 1px solid rgba(34,36,38,.15);
+  box-shadow: none;
+  border-radius: .28571429rem;
+  text-align: left;
+  color: rgba(0,0,0,.87);
+  border-collapse: separate;
+  border-spacing: 0;
+}
+table.lessons-statistics thead th {
+  cursor: auto;
+  background: #F9FAFB;
+  text-align: center;
+  color: deepskyblue; 
+  padding: .92857143em 10px;
+  vertical-align: bottom;
+  font-style: none;
+  font-weight: 700;
+  text-transform: none;
+  border-bottom: 1px solid rgba(34,36,38,.1);
+  border-left: none;
+  font-size: 12px;
+  line-height: 20px;
+  color: #aaa;
+}
+table.lessons-statistics thead tr:first-child > th:first-child {
+  border-radius: .28571429rem 0 0;
+}
+table.lessons-statistics thead tr:first-child > th:last-child {
+  border-radius: 0 .28571429rem 0 0;
+}
+table.lessons-statistics tr td, 
+table.lessons-statistics tr th {
+  border-left: 1px solid rgba(34,36,38,.1);
+}
+.Success table.lessons-statistics tbody tr td,
+.Success table.lessons-statistics tbody tr th {
+  font-size: 12px;
+  padding: 10px;
+  text-align: inherit;
+  border-top: 1px solid rgba(34,36,38,.1);
+}
+.Success table.lessons-statistics tbody tr:first-child td,
+.Success table.lessons-statistics tbody tr:first-child th {
+  border-top: none;
+}
+.Success table.lessons-statistics tr td:first-child,
+.Success table.lessons-statistics tr th:first-child {
+  border-left: none;
+}
+.Success table.lessons-statistics tbody tr:hover td,
+.Success table.lessons-statistics tbody tr:hover th {
+  background: aliceblue;
+}
+
+.Success table.lessons-statistics tbody tr.highlighted td,
+.Success table.lessons-statistics tbody tr.highlighted th,
+.Success table.lessons-statistics tbody tr.highlighted td:hover,
+.Success table.lessons-statistics tbody tr.highlighted th:hover {
+  background: deepskyblue;
+  color: white;
+}
+
+
+.Success table.lessons-statistics tr td .bar{
+  box-sizing: border-box;
+  height: 41px;
+  line-height: 21px;
+  padding: 10px;
+  background: aliceblue;
+}
+
+
+.Success table.lessons-statistics tr td.progress-bar,
+.Success table.lessons-statistics tr td.example {
+  padding: 0;
+}
+.Success table.lessons-statistics tbody tr:hover td.progress-bar {
+  background: #fff;
+}
+.Success .CodeMirror{
+  padding: 10px;
+  height: auto;
+}
