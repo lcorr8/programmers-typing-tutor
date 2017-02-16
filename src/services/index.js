@@ -13,6 +13,6 @@ export const training = {
       throw new Error('Unknown Training level: ' + level)
     }
 
-    return fetchJson(`/training/${mode}/${level}.json`)
+    return fetchJson(`training/${mode}/${level}.json`)
   }
 }
