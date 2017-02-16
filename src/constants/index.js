@@ -18,21 +18,21 @@ export const TRAININGS = [
     name: 'Java Script Training',
     mode: 'javascript',
     level: 'beginner',
-    logo: '/images/languages/javascript.png'
+    logo: 'images/languages/javascript.png'
   },
   {
     id: 't2',
     name: 'HTML Training',
     mode: 'html',
     level: 'beginner',
-    logo: '/images/languages/html.png'
+    logo: 'images/languages/html.png'
   },
   {
     id: 't3',
     name: 'CSS Training',
     mode: 'css',
     level: 'beginner',
-    logo: '/images/languages/css.png'
+    logo: 'images/languages/css.png'
   }
 ]
 
