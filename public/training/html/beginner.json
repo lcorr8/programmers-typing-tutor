@@ -3,7 +3,7 @@
   "name": "HTML Training",
   "mode": "html",
   "level": "beginner",
-  "logo": "/images/languages/html.png",
+  "logo": "images/languages/html.png",
   "lessons": [
     {
       "exercise": "",

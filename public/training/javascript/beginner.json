@@ -3,7 +3,7 @@
   "name": "Java Script Training",
   "mode": "javascript",
   "level": "beginner",
-  "logo": "/images/languages/javascript.png",
+  "logo": "images/languages/javascript.png",
   "lessons": [
     {
       "exercise": "",

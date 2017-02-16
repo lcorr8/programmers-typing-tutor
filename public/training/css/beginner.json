@@ -3,7 +3,7 @@
   "name": "CSS Training",
   "mode": "css",
   "level": "beginner",
-  "logo": "/images/languages/css.png",
+  "logo": "images/languages/css.png",
   "lessons": [
     {
       "exercise": "",
